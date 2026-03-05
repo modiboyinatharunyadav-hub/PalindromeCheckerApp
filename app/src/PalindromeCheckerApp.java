@@ -24,9 +24,9 @@ public class UseCase5PalindromeCheckerApp {
 
         // Compare original and reversed string
         if (input.equals(reversed)) {
-            System.out.println("The string is a Palindrome.");
+            System.out.println("The string is    a Palindrome.");
         } else {
-            System.out.println("The string is NOT a Palindrome.");
+            System.out.println("The string is  NOT a Palindrome.");
         }
 
         scanner.close();
